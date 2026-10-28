@@ -1,0 +1,3 @@
+# Place the Supabase Root CA certificate here:
+# File name: prod-ca-2021.crt
+# Download from: Supabase Dashboard -> Project Settings -> Database -> SSL Configuration

@@ -1,0 +1,25 @@
+# Backend Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Certificates & keys
+certs/*
+!certs/.gitkeep
+*.crt
+*.pem
+*.key
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS / Editor
+.DS_Store
